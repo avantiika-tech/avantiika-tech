@@ -10,7 +10,7 @@
 
 ----
 
-### 🙋 About Me
+### 😼 About Me
 - 🎓 CSE Undergrad
 - 🔭 Currently exploring and building real world projects
 
