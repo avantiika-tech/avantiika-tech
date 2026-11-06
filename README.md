@@ -30,17 +30,6 @@
 - ☕ **Java**: OOP, Collections, core concepts
 - 🧠 **Data Structures & Algorithms** in Java: arrays, linked lists, stacks, queues, trees, recursion
 - 🎯 Solving problems regularly to sharpen problem-solving skills
-### 🌍 Open Source Contributions
 
-| Project | Contribution | Status |
-|---|---|---|
-| [**Kestra**](https://github.com/kestra-io/kestra) | [<One line on what you fixed/added>](<link-to-your-PR>) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github&logoColor=white) |
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=avantiika-tech&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avantiika-tech&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=avantiika-tech&theme=tokyonight&hide_border=true" />
-</p>
+----
+<p align="center"><i>Thanks for visiting ✨</i></p>
